@@ -1,4 +1,4 @@
-# timeline-test
+# challenge-vue-dev
 
 ## Project setup
 ```
